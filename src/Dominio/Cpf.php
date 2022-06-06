@@ -1,6 +1,6 @@
 <?php
 
-namespace Arquitetura;
+namespace Arquitetura\Dominio;
 
 class Cpf implements \Stringable
 {
